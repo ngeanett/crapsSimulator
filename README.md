@@ -1,0 +1,4 @@
+crapsSimulator
+==============
+
+Craps game simulation
